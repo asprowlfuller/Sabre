@@ -1,0 +1,29 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="2C84CE43-CDAB-4541-A55A-7F849E8AC247/f:DepthStreamManager.cs" caret="2377" fromTop="13" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml" caret="1" fromTop="0" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="1785" fromTop="46" />
+      <File id="2C84CE43-CDAB-4541-A55A-7F849E8AC247/f:GestureRecognizer.cs" caret="288" fromTop="11" />
+    </RecentFiles>
+    <RecentEdits />
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

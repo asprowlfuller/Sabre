@@ -1,0 +1,176 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:NativeWindow.cs" caret="526" fromTop="22" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml" caret="0" fromTop="0" />
+      <File id="2C84CE43-CDAB-4541-A55A-7F849E8AC247/f:DepthStreamManager.cs" caret="705" fromTop="14" />
+      <File id="2C84CE43-CDAB-4541-A55A-7F849E8AC247/f:ColorStreamManager.cs" caret="494" fromTop="14" />
+      <File id="2C84CE43-CDAB-4541-A55A-7F849E8AC247/f:Tools.cs" caret="193" fromTop="7" />
+      <File id="2C84CE43-CDAB-4541-A55A-7F849E8AC247/f:GestureRecognizer.cs" caret="2047" fromTop="49" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="2655" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="4508" fromTop="17" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="136" fromTop="4" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="4508" fromTop="75" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="4508" fromTop="15" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="5476" fromTop="25" />
+      <File id="2C84CE43-CDAB-4541-A55A-7F849E8AC247/f:ColorStreamManager.cs" caret="587" fromTop="17" />
+      <File id="2C84CE43-CDAB-4541-A55A-7F849E8AC247/f:ColorStreamManager.cs" caret="170" fromTop="6" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="4508" fromTop="19" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="4508" fromTop="29" />
+      <File id="2C84CE43-CDAB-4541-A55A-7F849E8AC247/f:DepthStreamManager.cs" caret="1625" fromTop="2" />
+      <File id="2C84CE43-CDAB-4541-A55A-7F849E8AC247/f:DepthStreamManager.cs" caret="3058" fromTop="23" />
+      <File id="2C84CE43-CDAB-4541-A55A-7F849E8AC247/f:DepthStreamManager.cs" caret="2513" fromTop="22" />
+      <File id="2C84CE43-CDAB-4541-A55A-7F849E8AC247/f:DepthStreamManager.cs" caret="4560" fromTop="41" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="5627" fromTop="21" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="6278" fromTop="35" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="5316" fromTop="16" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="205" fromTop="13" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="205" fromTop="37" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="205" fromTop="29" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="205" fromTop="18" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="205" fromTop="16" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="205" fromTop="22" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="205" fromTop="27" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="205" fromTop="1" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="205" fromTop="1" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="4508" fromTop="41" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="4508" fromTop="37" />
+      <File id="2C84CE43-CDAB-4541-A55A-7F849E8AC247/f:DepthStreamManager.cs" caret="2029" fromTop="22" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="3277" fromTop="18" />
+      <File id="79EEC94E-00F3-4B62-A668-A7084E09E621/f:MainWindow.xaml.cs" caret="2655" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="float" priority="2" />
+      <Item value="int" priority="7" />
+      <Item value="public" priority="5" />
+      <Item value="class" priority="2" />
+      <Item value="DateTime`0" priority="2" />
+      <Item value="Vector2`0" priority="0" />
+      <Item value="Entry" priority="0" />
+      <Item value="Position" priority="0" />
+      <Item value="position" priority="1" />
+      <Item value="Time" priority="0" />
+      <Item value="if" priority="5" />
+      <Item value="entries" priority="1" />
+      <Item value="index" priority="4" />
+      <Item value="start" priority="0" />
+      <Item value="minTime" priority="0" />
+      <Item value="totalMilliseconds" priority="0" />
+      <Item value="maxTime" priority="0" />
+      <Item value="p2" priority="0" />
+      <Item value="joint" priority="0" />
+      <Item value="continue" priority="0" />
+      <Item value="nativeWindow" priority="0" />
+      <Item value="gesture" priority="0" />
+      <Item value="switch" priority="0" />
+      <Item value="List" priority="0" />
+      <Item value="new" priority="2" />
+      <Item value="List&lt;Vector3&gt;" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="Vector3`0" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="positions" priority="9" />
+      <Item value="this" priority="1" />
+      <Item value="windowSize" priority="1" />
+      <Item value="for" priority="0" />
+      <Item value="lengths" priority="1" />
+      <Item value="p" priority="0" />
+      <Item value="Math`0" priority="0" />
+      <Item value="avg" priority="0" />
+      <Item value="IsStable" priority="0" />
+      <Item value="readonly" priority="0" />
+      <Item value="barycenterHelper" priority="2" />
+      <Item value="BarycenterHelper" priority="0" />
+      <Item value="data" priority="1" />
+      <Item value="return" priority="1" />
+      <Item value="byte" priority="2" />
+      <Item value="depthFrame16" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="MicArrayAdaptiveBeam" priority="0" />
+      <Item value="e" priority="1" />
+      <Item value="Console`0" priority="0" />
+      <Item value="source" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Kinect.Toolkit.GestureRecognizer+Entry">
+      <Item value="Time" priority="1" />
+      <Item value="Position" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="TotalMilliseconds" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Abs`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Research.Kinect.Nui.Joint">
+      <Item value="Position" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Research.Kinect.Nui.Vector">
+      <Item value="W" priority="1" />
+      <Item value="ToVector3`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Kinect.Toolkit.SupportedGesture">
+      <Item value="BackToFront" priority="0" />
+      <Item value="FrontToBack" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:KinectKeyboardSimulator.NativeWindow">
+      <Item value="BringToFront`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="0" />
+      <Item value="Count" priority="3" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="Average`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Kinect.Toolkit.BarycenterHelper">
+      <Item value="windowSize" priority="0" />
+      <Item value="Add`0" priority="0" />
+      <Item value="IsStable" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Vector3">
+      <Item value="Length`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Research.Kinect.Nui.SkeletonData">
+      <Item value="Position" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debug">
+      <Item value="WriteLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Kinect.Toolkit.GestureRecognizer">
+      <Item value="windowSize" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Research.Kinect.Audio.KinectAudioSource">
+      <Item value="MicArrayMode" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Research.Kinect.Audio.BeamChangedEventArgs">
+      <Item value="Angle" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,28 @@
+E:\umfkinect\KinectSabre.Render\KinectSabre.Render\bin\x86\Debug\Content\BloomCombine.xnb
+E:\umfkinect\KinectSabre.Render\KinectSabre.Render\bin\x86\Debug\Content\BloomExtract.xnb
+E:\umfkinect\KinectSabre.Render\KinectSabre.Render\bin\x86\Debug\Content\GaussianBlur.xnb
+E:\umfkinect\KinectSabre.Render\KinectSabre.Render\bin\x86\Debug\Content\Hum 1.xnb
+E:\umfkinect\KinectSabre.Render\KinectSabre.Render\bin\x86\Debug\Content\Hum 2.xnb
+E:\umfkinect\KinectSabre.Render\KinectSabre.Render\bin\x86\Debug\Content\Hum 4.xnb
+E:\umfkinect\KinectSabre.Render\KinectSabre.Render\bin\x86\Debug\Content\Hum 5.xnb
+E:\umfkinect\KinectSabre.Render\KinectSabre.Render\bin\x86\Debug\KinectSabre.Render.exe
+E:\umfkinect\KinectSabre.Render\KinectSabre.Render\bin\x86\Debug\KinectSabre.Render.pdb
+E:\umfkinect\KinectSabre.Render\KinectSabre.Render\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\umfkinect\KinectSabre.Render\KinectSabre.Render\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\umfkinect\KinectSabre.Render\KinectSabre.Render\obj\x86\Debug\KinectSabre.Render.exe
+E:\umfkinect\KinectSabre.Render\KinectSabre.Render\obj\x86\Debug\KinectSabre.Render.pdb
+E:\umfkinect\KinectSabre.Render\KinectSabre.Render\bin\x86\Debug\Kinect.Toolbox.dll
+C:\Users\Alex\Desktop\umfkinect\KinectSabre.Render\KinectSabre.Render\bin\x86\Debug\Content\BloomCombine.xnb
+C:\Users\Alex\Desktop\umfkinect\KinectSabre.Render\KinectSabre.Render\bin\x86\Debug\Content\BloomExtract.xnb
+C:\Users\Alex\Desktop\umfkinect\KinectSabre.Render\KinectSabre.Render\bin\x86\Debug\Content\GaussianBlur.xnb
+C:\Users\Alex\Desktop\umfkinect\KinectSabre.Render\KinectSabre.Render\bin\x86\Debug\Content\Hum 1.xnb
+C:\Users\Alex\Desktop\umfkinect\KinectSabre.Render\KinectSabre.Render\bin\x86\Debug\Content\Hum 2.xnb
+C:\Users\Alex\Desktop\umfkinect\KinectSabre.Render\KinectSabre.Render\bin\x86\Debug\Content\Hum 4.xnb
+C:\Users\Alex\Desktop\umfkinect\KinectSabre.Render\KinectSabre.Render\bin\x86\Debug\Content\Hum 5.xnb
+C:\Users\Alex\Desktop\umfkinect\KinectSabre.Render\KinectSabre.Render\bin\x86\Debug\KinectSabre.Render.exe
+C:\Users\Alex\Desktop\umfkinect\KinectSabre.Render\KinectSabre.Render\bin\x86\Debug\KinectSabre.Render.pdb
+C:\Users\Alex\Desktop\umfkinect\KinectSabre.Render\KinectSabre.Render\bin\x86\Debug\Kinect.Toolbox.dll
+C:\Users\Alex\Desktop\umfkinect\KinectSabre.Render\KinectSabre.Render\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\umfkinect\KinectSabre.Render\KinectSabre.Render\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alex\Desktop\umfkinect\KinectSabre.Render\KinectSabre.Render\obj\x86\Debug\KinectSabre.Render.exe
+C:\Users\Alex\Desktop\umfkinect\KinectSabre.Render\KinectSabre.Render\obj\x86\Debug\KinectSabre.Render.pdb

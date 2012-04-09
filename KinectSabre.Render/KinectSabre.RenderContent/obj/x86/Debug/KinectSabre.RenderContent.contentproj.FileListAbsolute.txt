@@ -1,0 +1,2 @@
+E:\umfkinect\KinectSabre.Render\KinectSabre.RenderContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\umfkinect\KinectSabre.Render\KinectSabre.RenderContent\obj\x86\Debug\ResolveAssemblyReference.cache
